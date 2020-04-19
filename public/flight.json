@@ -1,0 +1,42 @@
+[
+    { "flightId": "AKL0001", 
+        "origin": "Auckland", 
+        "origCode":"AKL",
+        "destination":"Hamilton", 
+        "destCode":"HAM",
+        "departure_date":"2020-05-01",
+        "departure_time":"2300",
+        "arrival_time":"2040",
+        "price":200
+    },
+     { "flightId": "Ham0002", 
+        "origin": "Hamilton", 
+        "origCode":"HAM",
+        "destination":"Auckland", 
+        "destCode":"AKL",
+        "departure_date":"2020-06-01",
+        "departure_time":"2120",
+        "arrival_time":"2300",
+        "price":400
+    },   
+    { "flightId": "AKL0002", 
+        "origin": "Auckland", 
+        "origCode":"AKL",
+        "destination":"Sydney", 
+        "destCode":"SYN",
+        "departure_date":"2020-10-01",
+        "departure_time":"1300",
+        "arrival_time":"2000",
+        "price":200
+    }, 
+    { "flightId": "HAM0003", 
+        "origin": "Hamilton", 
+        "origCode":"HAM",
+        "destination":"Auckland", 
+        "destCode":"AKL",
+        "departure_date":"2020-09-01",
+        "departure_time":"1300",
+        "arrival_time":"1500",
+        "price":200
+    }   
+]
